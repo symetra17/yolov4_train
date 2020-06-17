@@ -1,0 +1,6 @@
+classes= 1
+train  = data/forehead/train_set.txt
+valid  = data/forehead/train_set.txt
+names = data/obj.names
+backup = backup/
+#eval=coco

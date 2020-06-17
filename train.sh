@@ -1,0 +1,1 @@
+./darknet detector train data/obj.data data/yolov4-insight.cfg data/yolov4.conv.137 -gpus 0
